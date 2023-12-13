@@ -22,11 +22,11 @@ const App = () => {
   }
 
   return (
-    <div>
-      <h1>
+    <div className="flex flex-col gap-10 mx-auto p-10">
+      <h1 className="text-3xl text-red-700 border-8 px-10 py-5 border-dashed rounded-lg w-fit mx-auto">
         Plan With Us
       </h1>
-      <Tours tours={tours} removeTour={removeTour}></Tours>
+      <Tours tours={tours} removeTour={removeTour} ></Tours>
     </div>
   );
 };

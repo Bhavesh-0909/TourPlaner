@@ -4,7 +4,7 @@ import Cards from "./Cards";
 function Tours({tours, removeTour}){
     
     return (
-        <div>
+        <div className="flex flex-wrap w-[100%] justify-center gap-4">
             {
                 tours.map((tour)=>{
                     return <Cards {...tour} removeTour={removeTour}></Cards>;
