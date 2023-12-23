@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TourPlaner/static/css/main.bad46389.css",
+    "main.js": "/TourPlaner/static/js/main.bfa633b6.js",
+    "index.html": "/TourPlaner/index.html",
+    "main.bad46389.css.map": "/TourPlaner/static/css/main.bad46389.css.map",
+    "main.bfa633b6.js.map": "/TourPlaner/static/js/main.bfa633b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bad46389.css",
+    "static/js/main.bfa633b6.js"
+  ]
+}
